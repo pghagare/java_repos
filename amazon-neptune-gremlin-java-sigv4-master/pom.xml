@@ -28,7 +28,7 @@
     <url>https://github.com/aws/amazon-neptune-gremlin-java-sigv4</url>
 
     <licenses>
-        <license>
+        <license> 
             <name>Apache License, Version 2.0</name>
             <url>https://aws.amazon.com/apache2.0</url>
             <distribution>repo</distribution>
